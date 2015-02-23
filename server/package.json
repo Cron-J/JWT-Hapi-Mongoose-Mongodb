@@ -15,5 +15,16 @@
     "moment": "^2.9.0",
     "mongoose": "^3.8.23",
     "nodemailer": "^0.7.1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "socket.io",
+    "angular"
+  ],
+  "author": {
+    "name": "gaurav gupta",
+    "email": "gaurav_bng@hotmail.com",
+    "website": "www.cronj.com"
   }
 }
