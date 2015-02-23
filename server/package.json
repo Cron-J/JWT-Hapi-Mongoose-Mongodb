@@ -18,8 +18,9 @@
   },
   "keywords": [
     "node.js",
-    "express",
-    "socket.io",
+    "hapi.js",
+    "mongoose",
+    "JWT",
     "angular"
   ],
   "author": {
